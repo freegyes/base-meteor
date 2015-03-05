@@ -12,7 +12,7 @@ meteor
 ## copy the base scaffold
 
   - download this repo to your desktop
-  - remove <app_name>.\* files from the <app_name> folder
+  - remove <app_name>.??? files from the <app_name> folder
   - copy the folder and file structure given to your <app_name> folder
   - point the browser at: http://localhost:3000/
 
