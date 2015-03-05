@@ -26,6 +26,6 @@ meteor add/remove <package_name>
 I often use these:
   - [iron:router](https://atmospherejs.com/iron/router) for routing
   - [accounts-base](https://atmospherejs.com/meteor/accounts-base) for user management
-  - [twbs: bootstrap-noglyph](https://atmospherejs.com/twbs/bootstrap-noglyph) to include bootstrap
-  - [sacha: spin](https://atmospherejs.com/sacha/spin) for a loading spinner
-  - [fortawesome: fontawesome](https://atmospherejs.com/fortawesome) to include fontawesome (!note foRt)
+  - [twbs:bootstrap-noglyph](https://atmospherejs.com/twbs/bootstrap-noglyph) to include bootstrap
+  - [sacha:spin](https://atmospherejs.com/sacha/spin) for a loading spinner
+  - [fortawesome:fontawesome](https://atmospherejs.com/fortawesome) to include fontawesome (!note foRt)
