@@ -29,3 +29,9 @@ I often use these:
   - [twbs:bootstrap-noglyph](https://atmospherejs.com/twbs/bootstrap-noglyph) to include bootstrap
   - [sacha:spin](https://atmospherejs.com/sacha/spin) for a loading spinner
   - [fortawesome:fontawesome](https://atmospherejs.com/fortawesome) to include fontawesome (!note foRt)
+
+## on deploy
+on deploying to production don't forget to remove autopublish and insecure packages
+````
+meteor remove autopublish && meteor remove insecure
+````
